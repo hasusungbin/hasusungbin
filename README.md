@@ -19,6 +19,11 @@
       <img src="https://img.shields.io/badge/Java-FFFFFF?style=plastic&logo=java&logoColor=FFFFFF"/>
 </div>
 
+<div align="center">
+       <h2> My Hobby..🔥 </h2>
+      <p>💪Exercise ⚽Soccer 🏄‍♂️surfing 🎳bowling 🏀basketball.. </p>
+</div>
+
 
 
 
