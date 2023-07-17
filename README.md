@@ -22,7 +22,7 @@
 
 <div align="center">
        <h2> My Hobby..🔥 </h2>
-      <p>💪Exercise ⚽Soccer 🏄‍♂️surfing 🎳bowling 🏀basketball.. </p>
+      <p>💪Exercise ⚽Soccer 🏄‍♂️surfing 🎳bowling 🏀basketball 🎤singing.. </p>
 </div>
 
 
